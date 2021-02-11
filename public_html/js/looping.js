@@ -107,3 +107,4 @@ function lt03() {
     document.getElementById("plants3_total").innerHTML = plants2_total;
 
 }
+plants2_total = 4 * p;
